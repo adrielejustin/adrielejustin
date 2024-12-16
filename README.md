@@ -1,5 +1,7 @@
 ## Hi there 👋 Eu sou a Adriele Justin, de Porto Alegre - RS.
 
+Sou acadêmica em Sistemas de Informação e estudo tudo o que posso sobre programação.
+
 <!--
 **adrielejustin/adrielejustin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
